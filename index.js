@@ -21,10 +21,10 @@ image2.setAttribute("src", randomImageSource2);
 
 
 if(randomNumber1>randomNumber2){
-    document.querySelector("h1").innerHTML="🚩Player1 wins!!";
+    document.querySelector("h1").innerHTML="🚩Rojee-Player1 wins!!";
  }
 else if(randomNumber2>randomNumber1){
-    document.querySelector("h1").innerHTML="Player2 wins!!🚩";
+    document.querySelector("h1").innerHTML="Dheeraj-Player2 wins!!🚩";
  }
 else{
     document.querySelector("h1").innerHTML="Draw!";
